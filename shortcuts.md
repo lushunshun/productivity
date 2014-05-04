@@ -14,8 +14,10 @@
 **Maximize Window** : CMD + CTRL + M (configured in keyboard preference)
 
 ### Safari
-**New Tab** : CMD + T
-**URL bar** : CMD + L
+**New Tab** : CMD + T  
+**URL bar** : CMD + L  
+**Next tab** : CMD + Shift + Left Arrow  
+**Previous tab** : CMD + Shift + Right Arrow  
 
 
 
