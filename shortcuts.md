@@ -16,8 +16,8 @@
 ### Safari
 **New Tab** : CMD + T  
 **URL bar** : CMD + L  
-**Next tab** : CMD + Shift + Left Arrow  
-**Previous tab** : CMD + Shift + Right Arrow  
+**Move to next tab** : CMD + Shift + ] or CTRL + tab
+**Move to previous tab** : CMD + Shift + [ or cTRL + Shift + tab
 
 
 
