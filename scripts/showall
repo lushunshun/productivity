@@ -1,0 +1,13 @@
+#!/bin/bash
+
+##Don't forget to make this script executable!!
+
+if [ "$1" == "on" ]; then
+  defaults write com.apple.finder AppleShowAllFiles TRUE
+  killall Finder
+elif [ "$1" == "off" ]; then
+  defaults write com.apple.finder AppleShowAllFiles FALSE
+  killall Finder 
+else
+  echo "Usage: showall [on | off]"
+fi
